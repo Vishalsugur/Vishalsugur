@@ -1,81 +1,79 @@
 # Hi, I'm Vishal Sugur 👋
 
-**Data Science Master's student · Hochschule Fulda, Germany**
-Data Analyst | ML Engineer | Python · SQL · Power BI · XGBoost · MLflow
+**Data Analyst & ML Practitioner** | M.Sc. Data Science @ Hochschule Fulda, Germany  
+Building data pipelines and ML systems that drive real business decisions.
 
+📍 Fulda, Germany &nbsp;|&nbsp; ✅ Eligible to work in Germany — no visa sponsorship needed  
+📧 vishalsugur22@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/vishal-sugur-10846b24a)
+
+---
+
+## 🔧 Tech Stack
+
+**Languages & Querying**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+
+**ML & Data Science**  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![XGBoost](https://img.shields.io/badge/XGBoost-189C35?style=flat)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**BI & Visualization**  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=dvc&logoColor=white)
 
 ---
 
-## About me
+## 🚀 Featured Projects
 
-Results-driven Data Analyst with 9+ months of industry internship experience, currently pursuing an **M.Sc. in Data Science** at Fulda University of Applied Sciences, Germany.
-
-Working on real-world ML systems using production data from **JUMO GmbH & Co. KG**. Eligible to work in Germany without visa sponsorship. Available immediately.
-
----
-
-## Currently working on
-
-> Trustworthy AI system for laser-trimming optimization at JUMO GmbH — real factory data, 38K+ substrates, VDE SPEC 90012 / VCIO compliant
+### 🏭 [JUMO Laser Trimming — Trustworthy AI System](https://github.com/YOUR_USERNAME/jumo-laser-trimming-ai)
+> Production-grade ML system predicting Nominal Correction Value (NCTr) for platinum thin-film temperature sensors  
+> `Python` `scikit-learn` `MLflow` `DVC` `PostgreSQL` `Power BI`  
+> ✅ 99.5% F0.1 tolerance-class yield · VDE SPEC 90012 compliant · Human-in-the-loop override logging
 
 ---
 
-## Featured projects
-
-### JUMO Laser Trimming — Trustworthy AI System (May 2025 – Present)
-Production-grade ML system using **real manufacturing data** from JUMO GmbH & Co. KG, Germany.
-- 7 relational tables · 38,000+ substrates · 324 features
-- Forward model (Ridge + Random Forest) achieving **99.5% F0.1 tolerance-class yield**
-- Full MLOps: DVC + MLflow + scikit-learn Pipeline + PostgreSQL
-- VDE SPEC 90012 Trustworthy AI framework (GDPR, leakage boundaries, fairness analysis)
-
-### Credit Default Prediction (Sep 2025)
-Comparing 4 ML models on 30,000 credit card clients — course project AI5247, Hochschule Fulda.
-- **XGBoost best model: 82.9% accuracy · AUC 0.83**
-- Threshold sensitivity analysis at 80–95% · Basel II/III compliance framing
-- [View Repository](https://github.com/Vishalsugur/credit-default-prediction)
-
-### DERMATRIX — Skin Disease Detection (2024)
-CNN-based image classification for 8 skin conditions including melanoma.
-- Published in **International Journal of Innovative Science and Research Technology** (Vol. 9, Issue 5, May 2024)
+### 💳 [Credit Default Prediction](https://github.com/YOUR_USERNAME/credit-default-prediction)
+> ML classification on 30,000 credit card clients — XGBoost, Random Forest, SVM comparison  
+> `Python` `XGBoost` `scikit-learn` `Pandas` `Matplotlib`  
+> ✅ 82.9% accuracy · AUC 0.83 · 16% reduction in false negatives vs baseline
 
 ---
 
-## Stats
-
-| | |
-|---|---|
-| Industry experience | 9+ months across 2 internships |
-| Real data modelled | 38,000+ manufacturing substrates |
-| Publication | 1 peer-reviewed journal paper |
-| Languages | English (C1) · German (B1) · Hindi · Kannada |
+### 🩺 [Skin Disease Detection — AI Image Classifier](https://github.com/YOUR_USERNAME/skin-disease-detection)
+> Published research project: AI/ML-based dermatological image classification system  
+> `Python` `CNN` `scikit-learn` `OpenCV`  
+> ✅ Published in IJISRT, Vol. 9, Issue 5, May 2024
 
 ---
 
-## Tech stack
+## 📊 GitHub Stats
 
-**Languages:** Python · SQL · R · C
-
-**ML / DS:** scikit-learn · XGBoost · Pandas · NumPy · MLflow · DVC
-
-**BI & Viz:** Power BI · Tableau · Matplotlib · Seaborn · Excel
-
-**Databases:** MySQL · PostgreSQL · MongoDB
-
-**Tools:** Git · GitHub · Jupyter · VS Code · AWS · Agile/Scrum
+![Vishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=1A3A5C&icon_color=2E75B6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=1A3A5C)
 
 ---
 
-## Connect with me
+## 📝 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishal_Sugur-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/vishal-sugur-10846b24a)
-[![GitHub](https://img.shields.io/badge/GitHub-Vishalsugur-181717?style=flat&logo=github)](https://github.com/Vishalsugur)
-[![Email](https://img.shields.io/badge/Email-vishalsugur22@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vishalsugur22@gmail.com)
+- 🎓 Currently: M.Sc. Data Science @ Hochschule Fulda (2025–present)
+- 💼 Previously: Data Analyst Intern @ NI Analytics & XSYS Technologies (India)
+- 🔬 Research: Published in IJISRT 2024 on AI-based image classification
+- 🌱 Currently learning: dbt · Apache Airflow · German (B1 → B2)
+- 🎯 Open to: **Data Analyst · Junior Data Scientist · ML Engineer** roles in Germany
+- ⚡ Fun fact: Top 5% nationally in TCS CodeVita Season 11
 
-**Location:** Fulda, Germany · Open to internships across Germany
+---
+
+*Replace `YOUR_USERNAME` with your actual GitHub username throughout this file.*
