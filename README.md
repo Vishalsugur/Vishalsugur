@@ -13,9 +13,7 @@ and researching Trustworthy AI. Published researcher in AI-based image classific
 - 📊 Comparing ML models (XGBoost, Random Forest, SVM) for credit default prediction with a focus on class imbalance handling
 - ⚖️ Exploring GDPR and legal/ethical dimensions of AI systems
 
-### 💼 Experience
-- **Data Analyst Intern** @ NI Analytics India — built SQL data repositories & Power BI dashboards for senior management, cut data retrieval time ~30%
-- **Data Analyst Intern** @ XSYS Technologies — analyzed 100K+ record datasets, automated KPI reporting saving ~6 hrs/week
+
 
 ---
 
