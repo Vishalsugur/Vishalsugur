@@ -2,7 +2,7 @@
 
 <p align="left">
 Data Analyst turned Data Scientist — M.Sc. Data Science student at Fulda University of Applied Sciences, Germany.
-9+ months of industry experience across two analytics internships. I build end-to-end data products — pipelines,
+. I build end-to-end data products — pipelines,
 BI dashboards and ML models — that are validated, documented and honest about their limits.
 Published researcher in AI-based image classification.
 </p>
@@ -11,7 +11,7 @@ Published researcher in AI-based image classification.
 
 ### 🔭 What I'm working on
 - ⚙️ **Trustworthy AI for manufacturing** — an ML system for **JUMO GmbH & Co. KG** predicting sensor correction values on real production data (38K+ substrates, 324 features), applying the **VDE SPEC 90012** Trustworthy AI framework
-- 📊 **BI migration with proof** — moving reporting from Tableau to self-hosted Apache Superset while automatically proving both dashboards show the same numbers
+- 📊 **BI migration ** — moving reporting from Tableau to self-hosted Apache Superset while automatically proving both dashboards show the same numbers
 - 🤖 **LLM automation** — structured, human-in-the-loop workflows on the Claude API
 - ⚖️ GDPR and the legal/ethical side of AI systems
 
