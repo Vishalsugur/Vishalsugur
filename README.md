@@ -2,7 +2,7 @@
 
 <p align="left">
 Data Analyst turned Data Scientist — M.Sc. Data Science student at Fulda University of Applied Sciences, Germany.
-. I build end-to-end data products — pipelines,
+I build end-to-end data products — pipelines,
 BI dashboards and ML models — that are validated, documented and honest about their limits.
 Published researcher in AI-based image classification.
 </p>
